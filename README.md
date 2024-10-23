@@ -4,13 +4,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Computer Science Student
 --------------------------
 
-While continuing my studies at the UTM Foundation, I was introduced to coding during my course, which inspired me to begin my journey towards becoming a programmer in the future. I am a first-year computer science (computer network and security) student. Welcome to my profile, you are welcome to participate in my journey✨.
+While continuing my studies at the UTM Foundation, I was introduced to coding during my course, which inspired me to begin my journey towards becoming a programmer in the future. I am a first-year computer science (computer network and security) student. Welcome to my profile, you are welcome to witness and participate in my journey✨.
 
 * 🌍  I'm based in Skudai, Johor Bahru
 * ✉️  You can contact me at [ungyiijia@gmail.com](mailto:ungyiijia@gmail.com)
 * 🧠  I'm learning on Technology and Information System
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm secretly a CARAT💎 17
+
+* 📖Educational Background
+* 2012-2017 SJK (C) Chung Hua No.6
+* 2018-2023 SMK Sungai Maong
+* 2023-2024 UTM Foundation (Physical Science)
+* 2024-now  Bachelor of Computer Science (Computer Network And Security) With Honours
 
 <a href="https://www.github.com/yj87" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yj87?logo=github&style=for-the-badge&color=facc15&labelColor=ffffff" /></a>
