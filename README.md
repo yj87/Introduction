@@ -8,6 +8,8 @@ While continuing my studies at the UTM Foundation, I was introduced to coding du
 
 * 🌍  I'm based in Skudai, Johor Bahru
 * ✉️  You can contact me at [ungyiijia@gmail.com](mailto:ungyiijia@gmail.com)
+* 🧠  I'm learning on Technology and Information System
+* 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm secretly a CARAT💎 17
 
 <a href="https://www.github.com/yj87" target="_blank" rel="noreferrer"><img
